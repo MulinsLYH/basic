@@ -1,0 +1,57 @@
+老家邮编：525300
+佛山顺德林头大道46号邮编：528311
+
+weet使移动开发性能和动态好,  grid表格
+
+混合app开发:
+cordova移动应用设备功能的api,如摄像头，麦克风
+elechron跨平台桌面应用框架
+
+
+
+
+全局图片路径
+
+
+
+
+.open-menu * {
+        vertical-align: middle;
+}
+
+css：透明，图片文字对齐
+
+
+
+虚拟dom与dom
+mvvp
+性能
+typeScript
+
+
+
+
+
+
+background-image:linear-gradient(#6BE6D6, #C56BE6);
+
+<article class="contain">
+<menu>
+         <li>定义列表</li>
+</menu>
+
+不要直接赋值后台数据，会端双向绑定的联系
+
+
+
+
+
+服务器
+单位测试
+
+:disabled
+
+package.json说明
+*找你不到页
+
+nginx
